@@ -86,17 +86,17 @@ You can find some of my projects and experiments on my profile
 - 🎢 Parque Warner — Customer Service Assistant (2023)
 - 👨‍🏫 Private Tutor — Eureka Academy (2023)
 
-
-<h2 style="margin: 5px 10px;">Github stats</h2> 
+<h2 style= "margin: 5px 10px;">Github stats</h2> 
+<div align="center">
 
 [![](https://github-readme-stats.vercel.app/api?username=Ander-26&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ander-26)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Ander-26&theme=material-palenight)](https://github.com/Ander-26)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ander-26&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Ander-26)
+</div>
 
-----
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/Ander-26/Ander-26/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
+</p>
 
