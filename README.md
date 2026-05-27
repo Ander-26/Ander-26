@@ -95,8 +95,6 @@ You can find some of my projects and experiments on my profile
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ander-26&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Ander-26)
 
-</div>
-
 ----
 
 <img src="https://raw.githubusercontent.com/Ander-26/Ander-26/output/github-contribution-grid-snake.svg" alt="snake animation" />
