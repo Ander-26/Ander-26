@@ -51,4 +51,41 @@
 </span>
 
 ## Check out my Social Media
+<a target="_blank" href="https://www.linkedin.com/in/andersson-silva-castellano-a9865b285/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:silvacastellanoandersson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/_aander26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+
+
+## Education
+<br>
+<table width="100%" align="center" padding="0" margin="0">
+<tr>
+<td valign="top" width="50%">
+
+| Qualification | Institute | Year of Study |
+| :-: | :----: | :--: |
+| Higher Technician in Web Application Development (DAW)  | Medac Davante | 2024 - 2026 |
+| Bachillerato  | Ies Anselmo Lorenzo | 2020 - 2022 |
+
+</td>
+</tr>
+</table>
+
+## Projects
+
+You can find some of my projects and experiments on my profile
+
+ ## Tech Experience
+
+- 💻 Assisted in web content development, HTML editing and digital platform management for Picasso Business Center (2026)
+
+ ##  Work Experience
+
+- 🏢 Amazon — Warehouse Associate (2025)
+- 🛒 Mercadona — Cashier & Stock Clerk (2024)
+- 🎢 Parque Warner — Customer Service Assistant (2023)
+- 👨‍🏫 Private Tutor — Eureka Academy (2023)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ander-26&theme=material-palenight)](https://github.com/Ander-26)
+
 
