@@ -10,6 +10,8 @@
 
 - 🧠 Improving my full-stack skills by building modern web applications.
 
+- 🌍 English: B2 (Upper-Intermediate)
+
 - 📫 Contact: silvacastellanoandersson@gmail.com
 
 - 📱 Phone: +34 656 611 537
