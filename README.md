@@ -80,6 +80,7 @@ You can find some of my projects and experiments on my profile
  ## Tech Experience
 
 - 💻 Assisted in web content development, HTML editing and digital platform management for Picasso Business Center (2026)
+- ☁️ Trained in cloud security, AWS and cybersecurity through Experis Academy - ManpowerGroup (2025)
 
  ##  Work Experience
 
