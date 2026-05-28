@@ -85,7 +85,7 @@ You can find some of my projects and experiments on my profile
 
 - 🏢 Amazon — Warehouse Associate (2025)
 - 🛒 Mercadona — Cashier & Stock Clerk (2024)
-- 👨‍🏫 Private Tutor — Eureka Academy (2023)
+- 👨‍🏫 Eureka Academy — Private Tutor (2023)
 
 <h2 style= "margin: 5px 10px;">Github stats</h2> 
 <div align="center">
